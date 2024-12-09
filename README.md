@@ -5,3 +5,4 @@ src\main\java\com\example\util util类连接数据库以及javamail
 src\main\webapp jsp页面存放
 src\main\webapp\images 图片存放
 src\main\webapp\WEB-INF\lib 使用的jar库
+202230441213 纪姿莹
